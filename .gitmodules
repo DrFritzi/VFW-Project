@@ -1,3 +1,6 @@
 [submodule "VFW-Project/Assets/VFW-Component"]
 	path = VFW-Project/Assets/VFW-Component
 	url = https://github.com/DrFritzi/VFW-Component
+[submodule "VFW-Project/Assets/VFW-Examples"]
+	path = VFW-Project/Assets/VFW-Examples
+	url = https://github.com/DrFritzi/VFW-Examples.git
