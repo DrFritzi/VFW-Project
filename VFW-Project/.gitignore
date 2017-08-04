@@ -1,0 +1,25 @@
+syntax: glob
+Library
+bin
+Temp
+obj
+DS_Store
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.pidb.meta
+*.suo
+*.unityproj
+*.unityProj
+Thumbs
+*.db
+Thumbs.db.meta
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend1.meta
+*.blend2.meta
+*.blend3.meta
+*.blend4.meta
